@@ -2,7 +2,7 @@
 FROM node:18-alpine
 
 # Set the working directory
-WORKDIR /src
+WORKDIR /app
 
 # Copy package.json and package-lock.json
 COPY package*.json ./
@@ -20,4 +20,4 @@ RUN npm run build
 EXPOSE 5173
 
 # Define the command to run the app
-CMD ["npm", "run", "serve"]
+CMD ["npm", "run", "dev"]
