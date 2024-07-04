@@ -47,12 +47,7 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
-        I epitomize the role of a multifaceted Technical Lead and astute C# developer, seamlessly merging your prowess in software development with the responsibilities of a forward-thinking Solutions Architect.
-        A trailblazer in your field, you not only guide your team towards the summit of industry excellence but also champion the integration of cutting-edge trends and standards. 
-        Your meticulous oversight extends to the realm of DevOps, where you weave a symphony of streamlined procedures, harmonizing the orchestration of development and operations. 
-        Beyond your coding finesse, you don the mantle of a Solutions Architect, envisioning and sculpting intricate frameworks that transcend mere software, 
-        transforming them into holistic, innovative solutions. As a custodian of the codebase, you infuse every line with your unwavering dedication, 
-        nurturing a garden of impeccable code from which remarkable software solutions blossom.
+        I epitomize the role of a multifaceted Senior Solution Architect, seamlessly merging my expertise in software development with the responsibilities of a forward-thinking leader. A trailblazer in my field, I guide teams towards industry excellence while championing the integration of cutting-edge trends and standards. My meticulous oversight extends to the realm of DevOps, where I weave streamlined procedures, harmonizing the orchestration of development and operations. Beyond coding finesse, I envision and sculpt intricate frameworks that transcend mere software, transforming them into holistic, innovative solutions. As a custodian of the codebase, I infuse every line with unwavering dedication, nurturing impeccable code from which remarkable software solutions blossom.
       </motion.p>
 
       <div className='mt-20 flex flex-wrap gap-10'>

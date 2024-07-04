@@ -43,19 +43,35 @@ export const navLinks = [
 
 const services = [
   {
+    title: "Senior Solution Architect",
+    icon: creator,
+  },
+  {
+    title: "DevOps Manager",
+    icon: creator,
+  },
+  {
     title: "Senior C# Engineer / Developer",
-    icon: web,
+    icon: creator,
   },
   {
     title: "Technical Lead - Solutions Architect",
-    icon: web,
+    icon: creator,
   },
   {
     title: "Angualr and React Developer",
-    icon: backend,
+    icon: creator,
   },
   {
     title: "K2 Consultant",
+    icon: creator,
+  },
+  {
+    title: "Nintex Consultant",
+    icon: creator,
+  },
+  {
+    title: "Power Automate Architect",
     icon: creator,
   },
 ];
@@ -117,10 +133,24 @@ const technologies = [
 
 const experiences = [
   {
+    title: "Senior Solution Architect",
+    company_name: "JAAM Automation",
+    iconBg: "#383E56",
+    date: "January 2024 - Current",
+    points: [
+      "Planned and implemented technical roadmap.",
+      "Created and Maintaining development RACI matrix.",
+      "Leading and building custom solutions to client needs.",
+      "Architected our legacy enterprise system to be SaaS.",
+      "Build Broker system from scratch that was implemented as a SaaS.",
+      "Building and maintaining DevOps Environment within Azure.",
+    ],
+  },
+  {
     title: "Senior Developer and Technical lead",
     company_name: "Co-Flo enterprise",
     iconBg: "#383E56",
-    date: "March 2021 - Current",
+    date: "March 2021 - December 2023",
     points: [
       "Planned and implemented technical roadmap.",
       "Created and Maintaining development RACI matrix.",
